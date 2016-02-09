@@ -4,7 +4,7 @@ app.config([ '$routeProvider',
   ($routeProvider)->
     $routeProvider
     .when('/',
-      templateUrl: "<%= asset_path('index.html') %>"
+      templateUrl: "<%= asset_path('tmplates/index.html') %>"
       controller: 'SomeController'
     )
     .when('/recipes/new',
