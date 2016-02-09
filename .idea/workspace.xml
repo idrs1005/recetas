@@ -54,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.14671361">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -760,7 +760,13 @@
       <option name="project" value="LOCAL" />
       <updated>1455051159520</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Workarround 2 tag defaults">
+      <created>1455051339639</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1455051339639</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -807,7 +813,8 @@
     <MESSAGE value="Remake app.coffee.erb" />
     <MESSAGE value="javascript tag defaults =&gt; application" />
     <MESSAGE value="Workarround 1 tag defaults" />
-    <option name="LAST_COMMIT_MESSAGE" value="Workarround 1 tag defaults" />
+    <MESSAGE value="Workarround 2 tag defaults" />
+    <option name="LAST_COMMIT_MESSAGE" value="Workarround 2 tag defaults" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -933,7 +940,7 @@
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14671361">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
           <folding />
         </state>
       </provider>
