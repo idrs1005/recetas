@@ -9,7 +9,7 @@ receta.config([ '$routeProvider',
     $routeProvider
     .when('/',
       templateUrl: "index.html"
-      controller: 'RecipesController'
+      controller: 'HomeController'
     )
 ])
 
